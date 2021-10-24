@@ -42,3 +42,4 @@ Numstring = "54 65 74 100 99 68 86 180 90"
 divv = Numstring.split(" ")
 for x in divv:
   print(sum(x))
+  
